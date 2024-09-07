@@ -27,14 +27,4 @@ Esse projeto é open source, o que significa que você pode contribuir com novas
 
 **Vamos juntos construir um mundo com mais qualidade!**
 
-**Link para o repositório:** 
-
-**Observações:**
-
-* **Personalize:** Adapte esse README com informações mais específicas sobre o seu projeto, como a versão, os autores e as licenças.
-* **Adicione imagens:** Use imagens para ilustrar o funcionamento da aplicação e torná-la mais atraente.
-* **Crie uma seção de FAQ:** Responda às perguntas mais comuns sobre a aplicação.
-* **Agradeça aos colaboradores:** Se você tiver a ajuda de outras pessoas, agradeça a elas nessa seção.
-
-**Lembre-se:** Um README bem escrito é o cartão de visitas do seu projeto. Use uma linguagem clara e objetiva, e mostre o seu entusiasmo pelo que você criou!
-```
+* **Agradecimentos:** Obrigada Alura pela inicativa de criar um program de imversão que foi possível ensinar essa Analista de Qualidade um pouco de programação.
