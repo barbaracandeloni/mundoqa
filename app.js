@@ -35,7 +35,7 @@ function buscar() {
             resultados += `
             <div class="item-resultado">
                 <h2>
-                    <a href="#" target="_blank">${dado.titulo}</a>
+                    <a href="#">${dado.titulo}</a>
                  </h2>
                 <p class="descricao-meta">${dado.descricao}</p>
                 <a href=${dado.link} target="_blank">Saiba mais</a>
@@ -43,7 +43,7 @@ function buscar() {
             `
         }
         if (!resultados) {
-            resultados = "<p>Nada encontrado</p>"
+            resultados = "<p>Infelizmente não adicionamos esse conteúdo ainda.</p>"
         }
     };
 
