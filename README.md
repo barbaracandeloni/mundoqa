@@ -10,10 +10,8 @@ Basta digitar sua pergunta e pronto! Você terá acesso a um mundo de informaç�
 **Como funciona a mágica?**
 
 1. **Digite sua dúvida:** Use o campo de pesquisa para escrever o que você quer saber.
-2. **Busque:** Clique em "Buscar respostas" e pronto!
-A aplicação vasculha uma base de dados enorme com artigos, tutoriais e dicas sobre qualidade.
-3. **Encontre as respostas:** Os resultados da sua pesquisa aparecerão na tela, com títulos chamativos e descrições concisas.
-Clique no link "Saiba mais" para acessar o conteúdo completo.
+2. **Busque:** Clique em "Buscar respostas" e pronto! A aplicação vasculha uma base de dados enorme com artigos, tutoriais e dicas sobre qualidade.
+3. **Encontre as respostas:** Os resultados da sua pesquisa aparecerão na tela, com títulos chamativos e descrições concisas. Clique no link "Saiba mais" para acessar o conteúdo completo.
 
 **Tecnologias utilizadas:**
 
